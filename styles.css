@@ -19,3 +19,19 @@ table {
   text-decoration-color:aquamarine; 
   text-decoration-style:solid 
   }
+
+.button {
+ display: inline-block;
+ padding: 10px 20px;
+ background-color: #7500c3; /* Button background color */
+ color: #fff; /* Button text color */
+ text-decoration: none;
+ border-radius: 5px; /* Rounded corners */
+ border: none;
+ cursor: pointer;
+ font-size: 20px; /* Adjust font size as needed */
+}
+
+.button:hover {
+    background-color: #0056b3; /* Change background color on hover */
+}
