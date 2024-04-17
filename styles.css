@@ -11,3 +11,11 @@ table {
     background-color: #f2f2f2;
   }
 
+
+  .decoration {
+  color: red;
+  background-color:aqua;
+  text-decoration-thickness:50%; 
+  text-decoration-color:aquamarine; 
+  text-decoration-style:solid 
+  }
