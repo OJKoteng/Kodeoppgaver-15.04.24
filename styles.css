@@ -32,6 +32,14 @@ table {
  font-size: 20px; /* Adjust font size as needed */
 }
 
+.color { color: rgb(8, 245, 8);
+}
+
 .button:hover {
     background-color: #0056b3; /* Change background color on hover */
 }
+
+.styled-paragraph { text-transform: uppercase;} /* Konverter tekst til store bokstaver 
+
+
+
