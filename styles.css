@@ -16,6 +16,9 @@ table {
 color:blue
 }
 
+.edgyshadow { text-shadow: 0 0 3px #f00, 0 0 5px #00f;
+}
+
 
   .decoration {
   color: red;
