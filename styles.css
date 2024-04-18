@@ -11,6 +11,11 @@ table {
     background-color: #f2f2f2;
   }
 
+.color2 { background-color: #6ff;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color:blue
+}
+
 
   .decoration {
   color: red;
