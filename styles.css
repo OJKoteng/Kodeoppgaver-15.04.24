@@ -19,6 +19,8 @@ color:blue
 .edgyshadow { text-shadow: 0 0 3px #f00, 0 0 5px #00f;
 }
 
+.dtborder { color: #7500c3; border-width: 2px; border-style: solid; border-color: #7500c3;
+}
 
   .decoration {
   color: red;
