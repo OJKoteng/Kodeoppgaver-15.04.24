@@ -5,7 +5,10 @@ table {
   th, td {
     border: 1px solid #dddddd;
     text-align: left;
-    padding: 8px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
   }
   th {
     background-color: #f2f2f2;
@@ -14,6 +17,9 @@ table {
 .color2 { background-color: #6ff;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 color:blue
+}
+
+.color3 { background-color: hsl(300, 100%, 53%);
 }
 
 .edgyshadow { text-shadow: 0 0 3px #f00, 0 0 5px #00f;
