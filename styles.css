@@ -22,6 +22,15 @@ color:blue
 .color3 { background-color: hsl(300, 100%, 53%);
 }
 
+.color4 { color: hsl(300, 100%, 53%);
+}
+
+.seksjon1 { text-align: center;
+}
+
+.seksjon4 { float: right;
+}
+
 .edgyshadow { text-shadow: 0 0 3px #f00, 0 0 5px #00f;
 }
 
